@@ -1,7 +1,7 @@
 import requests
 
 
-# ジョーク生成関数だよ
+# ジョーク生成関数
 def create_joke():
 
 	# エンドポイント
