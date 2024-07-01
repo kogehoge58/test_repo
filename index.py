@@ -3,7 +3,7 @@ import requests
 
 # 差分を記載START
 
-# りんご
+# みかん
 
 # 差分を記載END
 
