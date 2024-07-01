@@ -1,6 +1,12 @@
 import requests
 
 
+# 差分を記載START
+
+# りんご
+
+# 差分を記載END
+
 # ジョーク生成関数
 def create_joke():
 
